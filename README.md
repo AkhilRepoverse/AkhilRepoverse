@@ -27,7 +27,7 @@ I believe in learning by doing, writing clean and efficient code, and continuous
 ---
 
 ## 📈 Goals
-- 🎯 Crack GATE with strong conceptual clarity  
+ 
 - 💡 Build impactful and real-world projects  
 - 📊 Improve coding efficiency and logic building  
 - 🌱 Keep learning and growing every day  
